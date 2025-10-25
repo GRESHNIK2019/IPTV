@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Телеканалы", Первый канал
+https://streaming.televizor-24-tochka.ru/live/4.m3u8
+
+#EXTINF:-1 tvg-name="НТВ" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Телеканалы", НТВ
+https://streaming.televizor-24-tochka.ru/live/7.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="http://vegacrmp.online/logo/Russia-1.png" group-title="Телеканалы", Россия 1
+https://streaming.televizor-24-tochka.ru/live/5.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="http://vegacrmp.online/logo/Russia-1.png" group-title="Телеканалы", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
+#HD Телеканалы
+
+#EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Телеканалы HD", Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Телеканалы HD", НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 HD" tvg-logo="http://vegacrmp.online/logo/Russia-1.png" group-title="Телеканалы HD", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
